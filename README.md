@@ -19,7 +19,7 @@ make
 ### 运行项目
 在`build`目录下运行可执行文件：
 ```sh
-./main
+./ffmpeg_demo
 ```
 
 ## 注意事项

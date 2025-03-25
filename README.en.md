@@ -19,7 +19,7 @@ make
 ### Run the Project
 Run the executable file in the `build` directory:
 ```sh
-./main
+./ffmpeg_demo
 ```
 
 ## Notes
